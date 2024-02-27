@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59102095ea12f0469f099594c0a59ef, type: 3}
+  m_Name: RewardFortune
+  m_EditorClassIdentifier: 
+  secondsToWaitReward: 18000
+  rewardLabel: Let's Go!
+  totalAngle: 20
+  sectionCount: 16
+  payment: 90010000c8000000460000000a000000e8030000960000005a0000001e000000900100003c00000014000000f4010000e8030000960000005a0000001e000000
+  isPlay: 0
+  isPayment: 0
+  rewardTimer:
+    value: Let's Go!
+  isRewardPossible:
+    value: 1

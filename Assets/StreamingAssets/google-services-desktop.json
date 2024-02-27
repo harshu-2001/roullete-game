@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683089056633",
+    "firebase_url": "https://roulette-game-410306-default-rtdb.firebaseio.com",
+    "project_id": "roulette-game-410306",
+    "storage_bucket": "roulette-game-410306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683089056633:android:6b2bc41e893bee39a695a8",
+        "android_client_info": {
+          "package_name": "com.z1tech.roulette"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683089056633-pmi71hkd6cn1vrpv2tgmh8bvtnbha1vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z1tech.roulette",
+            "certificate_hash": "678f8056f79a0bf05294a3aa2f61c4157da9b1c1"
+          }
+        },
+        {
+          "client_id": "683089056633-93v0k1nean8n41nkb0bafiaq3n8f59lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnHMeFfKJweVC-3buxu4k9hnEPoYmEG2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683089056633-93v0k1nean8n41nkb0bafiaq3n8f59lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
